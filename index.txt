@@ -4,15 +4,14 @@ Smith - Creative Designer Based In UK
 
 #---------- HEADER ----------#
 
-Smith
+Rahat
 
 Home
-Portfolio
+Projects
 Skills
 Timeline
-Price
-News
 Contact
+
 
 aria-label = toggle menu
 
@@ -20,11 +19,11 @@ aria-label = toggle menu
 
 #---------- HERO ----------#
 
-alt = Bernard Smith
+alt = Rahat Lokhandwala
 
-Bernard Smith
+Rahat Lokhandwala
 
-Creative Designer Based In UK
+Ed.M Candidate at Harvard Graduate School of Education
 
 Web Development
 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
@@ -32,13 +31,9 @@ Web Development
 Digital Marketing
 Graphic Design
 
-10+
+6+
 Years of
 Experience
- 
-3K+
-Happy
-Customers
 
 aria-label = scroll down
 
